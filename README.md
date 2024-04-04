@@ -55,3 +55,7 @@ Congrats if you've successfully installed and configured osTicket! This is the e
 </p>
 
 <br />
+
+<p>
+Check out this project next: Microsoft Azure & Active Directory
+</p>
